@@ -1,13 +1,22 @@
 ---
-title: "STAT540_Seminar2"
+title: "STAT540 Seminar2"
 author: "Hannah-Ruth Engelbrecht"
-date: "13/01/2020"
-output: html_document
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# Testing Header 1
+[A fun place to explore](https://www.tripsavvy.com/marienplatz-in-munich-the-complete-guide-4570806)
+
+## Testing Header 2
+
+### Testing Header 3
+
+#### Testing Header 4
 
 ## R Markdown
 
