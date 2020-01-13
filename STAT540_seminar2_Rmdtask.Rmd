@@ -1,8 +1,8 @@
 ---
 title: "STAT540 Seminar2"
 author: "Hannah-Ruth Engelbrecht"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: github_document
+date: "13 January 2020"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
